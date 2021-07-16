@@ -19,6 +19,14 @@ const exp = [
     time: "(Nov, 2018 - Feb, 2019)",
     desp: "<li>Worked to maintenance a system in Stikom Bali.</li>",
   },
+  {
+    title: "Internship",
+    cardImage:
+      "https://2.bp.blogspot.com/-0TxbpsSZz7c/WfMH1K9jdcI/AAAAAAAABYM/Qxt3Yd3JVYQ0BvWgdKXD7SYE6lKfp3m1gCLcBGAs/s1600/1.png",
+    place: "Indonesia Android Kejar",
+    time: "(May - Aug, 2017)",
+    desp: "<li>Doing internship about how to built android native app with Indonesia Android Kejar.</li>",
+  },
 ];
 
 const showCards2 = () => {
